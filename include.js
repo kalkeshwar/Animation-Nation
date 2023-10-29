@@ -141,6 +141,13 @@ let cards = [
     githubLink: 'https://github.com/ahmedalhamad7'
   },
   {
+    artName: 'DayToNight',
+    pageLink: './Art/NituCStefann/index.html',
+    imageLink: './Art/NituCStefann/DayToNight.png',
+    author: 'NituCStefann',
+    githubLink: 'https://github.com/NituCStefann'
+  },
+  {
     artName: 'Solar system-Art',
     pageLink: './Art/Comder101/solar_system.html',
     imageLink: './Art/Comder101/solar_system.gif',
@@ -2334,6 +2341,13 @@ let cards = [
     imageLink: './Art/Shubhamkashyap1601/solar.gif',
     author: 'Shubham Kashyap',
     githubLink: 'https://github.com/Shubhamkashyap1601'
+  },
+  {
+    artName: 'Basic loader animation',
+    pageLink: './Art/rishika-on-git/index.html',
+    imageLink: './Art/rishika-on-git/result.gif',
+    author: 'Rishika Aggarwal',
+    githubLink: 'https://github.com/rishika-on-git'
   },
   {
     artName: 'Compass Loader',
